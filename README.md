@@ -1,4 +1,4 @@
-# Morse Code Converter
+# International Morse Code Converter
 
 ## Text -> Morse Code
 
